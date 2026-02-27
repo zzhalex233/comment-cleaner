@@ -33,3 +33,4 @@ https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0
 从 Releases 下载
 
 ![alt text](image.png)
+![alt text](video.gif)
