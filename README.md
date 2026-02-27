@@ -11,6 +11,16 @@
 - 文件夹&单文件模式
 - 按后缀过滤
 - 写回前自动备份
+- 深色主题🥰
+
+## 支持语言（基于后缀）
+
+- C / C++ (`.c .cpp .h .hpp .cc .cxx`)
+- Java (`.java`)
+- C# (`.cs`)
+- JavaScript / TypeScript (`.js .ts .jsx .tsx`)
+- Python (`.py`)
+- Go / Rust / Kotlin / Swift (`.go .rs .kt .kts .swift`)
 
 ## 支持环境
 
